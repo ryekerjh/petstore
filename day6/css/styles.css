@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Satisfy|Open+Sans:400,300,700);
 
-/*=================================Header============================*/
+/*=================================HEADER============================*/
 
 .logo{
 	width:90px;
@@ -24,8 +24,7 @@ nav{
 }
 
 
-/*=================================end of header==================================*/
-
+/*=================================JUMBOTRON==================================*/
 
 .jumbotron {
 	background-image: url("../img/hero.jpg");
@@ -40,13 +39,13 @@ nav{
 	font-weight: 300;
 	color: #fff; 
 }
-/*=================================End of Jumbotron========================*/
 
 a:hover{
 	color: #ff827B;
 }
 
-/*===========================Content Begins====================*/
+/*===========================MAIN CONTENT====================*/
+
 .featured{
 	margin-bottom: 60px;
 }
@@ -55,7 +54,6 @@ a:hover{
 	background-color: #EDF1F4;
 	border-radius: 5%;
 	border:5px solid rgb(252, 252, 252);
-	/*padding-top: 30px;*/
 }
 
 .img-box{
@@ -66,10 +64,7 @@ a:hover{
 	margin-bottom: 10px;
 }
 
-/*==============================Content ENDS=======================*/
-
-
-/*--===============================footer Begins=======================--*/
+/*===============================FOOTER=======================*/
 
 .footer{
 	background-color: #231F20;
