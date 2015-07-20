@@ -22,16 +22,16 @@
 					<li role="presentation"><a href="#">Contact Us</a></li>
 				</ul>
 			</nav>
-		</header><!--HEADER BEGINS-->
-	</div><!--HEADER ENDS-->
+		</header>
+	</div><!--end of container header-->
 	
-	<div class="jumbotron"><!--JUMBOTRON BEGINS-->
+	<div class="jumbotron">
 		<div class="container text-center text-uppercase">
-			<h2>The Toys They Want. The Prices You'll Love</h2>
+			<h2>The Cool Ish They Bark For with the Squeeze Toys they Want</h2>
 		</div>
-	</div><!--JUMBOTRON ENDS-->
+	</div><!-- End of Jumbotron -->
 
-	<div class="container"><!--MAIN CONTENT BEINGS-->
+	<div class="container">
 		<div class="row">
 			<div class="col-sm-7 text-justify featured">
 				<h2 class="text-uppercase">featured</h2>
@@ -94,46 +94,46 @@
 				</ul>
 			</aside><!-- right side -->
 		</div>
-	</div><!-- MAIN CONTENT ENDS -->
+	</div><!-- end of content container -->
 
 
-	<div class="container-fluid footer"><!--FOOTER BEGINS-->
+	<div class="container-fluid footer"><!--footer begins-->
 		<div class="row">
-			<div class="col-xs-6 col-sm-3 col-sm-offset-1"><!--CONTACT BEGINS-->
+			<div class="col-xs-6 col-sm-3 col-sm-offset-1">
 				<img class="logo" src="img/petstore_logo_360.png" alt="psl">
-			</div><!--CONTACT ENDS-->
-			<div class="col-xs-6 col-sm-3 col-sm-offset-1 contact-info">
-				<address>
+				</div>
+				<div class="col-xs-6 col-sm-3 col-sm-offset-1 contact-info">
+					<address>
+						<a href="#">
+							Pet Store<br>
+							Fresno, CA<br>
+						</a>
+						<a href="#">info@petstore.com</a>
+					</address>	
+				</div>
+				<div class="col-sm-2 social"> <!-- Beginning of social -->
 					<a href="#">
-						Pet Store<br>
-						Fresno, CA<br>
+						<i class="fa fa-facebook"></i>
+						<span class="hidden-xs">Facebook</span>
 					</a>
-					<a href="#">info@petstore.com</a>
-				</address>	
-			</div>
-			<div class="col-sm-2 social"> <!-- SOCIAL BEGINS -->
-				<a href="#">
-					<i class="fa fa-facebook"></i>
-					<span class="hidden-xs">Facebook</span>
-				</a>
-				<br class="hidden-xs">
-				<a href="#">
-					<i class="fa fa-twitter"></i>
-					<span class="hidden-xs">Twitter</span>
-				</a>
-				<br class="hidden-xs">
-				<a href="#">
-					<i class="fa fa-linkedin"></i>
-					<span class="hidden-xs">Linked In</span>
-				</a>
-			</div><!--SOCIAL ENDS-->
-		</div>
-		<div class="row"><!--COPYRIGHT BEGINS-->
+					<br class="hidden-xs">
+					<a href="#">
+						<i class="fa fa-twitter"></i>
+						<span class="hidden-xs">Twitter</span>
+					</a>
+					<br class="hidden-xs">
+					<a href="#">
+						<i class="fa fa-linkedin"></i>
+						<span class="hidden-xs">Linked In</span>
+					</a>
+				</div><!--end of social-->
+		</div><!--end of row-->
+		<div class="row">
 			<div class="col-sm-12 fine-print text-center">
 				<p>&copy; Pet Store, Inc. All Rights Reserved.</p>
 			</div>
-		</div> <!--COPYRIGHT ENDS-->
-	</div><!-- FOOTER ENDS -->
+		</div> <!-- End of Footer -->
+	</div><!--end of container fluid-->
 	
 
 </body>
